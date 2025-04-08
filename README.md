@@ -2,6 +2,8 @@
 
 JSON-RPC APIにアクセスするためのコマンドラインツールです。
 
+** This is just a private project, for your reference. **
+
 ## インストール
 
 ```bash
